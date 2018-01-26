@@ -11,5 +11,5 @@ só um bugzinho
 
 compilou foi de primeira
 nem precisa nem testar
-ainda mais que hoje é sexta
+ainda mais qu'é sexta feira
 vamu embora commita
